@@ -14,6 +14,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "aws": "0.0.3-2",
+    "aws-sdk": "^2.452.0",
     "bcrypt": "^3.0.3",
     "body-parser": "^1.18.2",
     "cors": "^2.8.4",
